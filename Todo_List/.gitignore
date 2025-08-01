@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-package.json
+Todo_List/Backend/package.json
 
 # Editor directories and files
 .vscode/*
